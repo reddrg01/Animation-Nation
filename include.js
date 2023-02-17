@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'animation-jw',
+    pageLink: './Art/animation-jw/index.html',
+    imageLink: './Art/animation-jw/giphy.gif',
+    author: 'ReTurn',
+    githubLink: 'https://github.com/reddrg01'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
